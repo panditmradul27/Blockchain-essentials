@@ -1,2 +1,2 @@
 # Blockchain-essentials
-Blockchain asignments 
+Smart contract source code.
